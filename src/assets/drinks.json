@@ -1,0 +1,66 @@
+[
+  {
+    "type": "hot",
+    "size": {
+      "regular": 4.5,
+      "medium": 5,
+      "large": 5.5
+    },
+    "extras": {
+      "shots": 0.5,
+      "syrups": 0.5,
+      "milks": 0.5
+    },
+    "drinks": [
+      "Flat White",
+      "Cappucino",
+      "Latte",
+      "Long Black",
+      "Macchiato",
+      "Mocha"
+    ]
+  },
+  {
+    "type": "chilled",
+    "drinks": [
+      {
+        "name": "Iced Coffee",
+        "price": 7,
+        "extras": {
+          "shots": 0.5,
+          "syrups": 0.5,
+          "milks": 0.5
+        }
+      },
+      {
+        "name": "Iced Latte",
+        "price": 6,
+        "extras": {
+          "shots": 0.5,
+          "syrups": 0.5,
+          "milks": 0.5
+        }
+      },
+      {
+        "name": "Smoothie",
+        "varieties": [
+          "Strawberry",
+          "Banana"
+        ],
+        "price": 8
+      },
+      {
+        "name": "Milkshake",
+        "price": 6
+      },
+      {
+        "name": "Thickshake",
+        "price": 7
+      },
+      {
+        "name": "Fresh juice",
+        "price": 8
+      }
+    ]
+  }
+]

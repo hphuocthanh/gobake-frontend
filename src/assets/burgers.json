@@ -1,0 +1,103 @@
+[
+  {
+    "combo": 6,
+    "foods": [
+      {
+        "name": "Classic B",
+        "price": 9
+      },
+      {
+        "name": "Cheese B",
+        "price": 9
+      },
+      {
+        "name": "Chicken Schnitzel",
+        "price": 9.5
+      },
+      {
+        "name": "Peri Chilli Chicken B",
+        "price": 9.5
+      },
+      {
+        "name": "Vege B (GF V)",
+        "price": 12
+      },
+      {
+        "name": "Bacon Deluxe",
+        "price": 13.5
+      }
+    ],
+    "addons": [
+      {
+        "name": "Bacon",
+        "price": 3
+      },
+      {
+        "name": "Egg",
+        "price": 2
+      },
+      {
+        "name": "Haloumi",
+        "price": 3
+      },
+      {
+        "name": "Battered Onion Rings",
+        "price": 2
+      },
+      {
+        "name": "Cheese",
+        "price": 0.8
+      },
+      {
+        "name": "Pineapple",
+        "price": 2
+      },
+      {
+        "name": "Avocado",
+        "price": 2.5
+      },
+      {
+        "name": "Salad Item",
+        "price": 0.8
+      },
+      {
+        "name": "Extra sauce",
+        "price": 0.5
+      }
+    ],
+    "sides": [
+      {
+        "name": "Potato Scallop",
+        "price": 2.5
+      },
+      {
+        "name": "Calamari Rings",
+        "price": 2.5
+      },
+      {
+        "name": "Dagwood Dog",
+        "price": 4
+      },
+      {
+        "name": "Chicken Tenders",
+        "price": 3
+      },
+      {
+        "name": "Chiko Roll",
+        "price": 4
+      },
+      {
+        "name": "Spring Roll",
+        "price": 4
+      },
+      {
+        "name": "Spicy Wings",
+        "price": 3
+      },
+      {
+        "name": "Nuggets",
+        "price": 1.5
+      }
+    ]
+  }
+]
